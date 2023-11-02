@@ -1,0 +1,3 @@
+"""Super script."""
+
+print("Hello")
