@@ -2,3 +2,4 @@
 results/*
 # except results/final content - NOTE THAT "!" (=except) WORKS ONLY IF THERE IS A STAR ON THE PREVIOUS LINE
 !results/final/
+bin/app.bin
